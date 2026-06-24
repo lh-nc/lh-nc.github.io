@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: 个人学术主页
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. <b>讲师 · 硕导</b> · 安徽理工大学 · 化工与爆破学院
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>办公室：安徽理工大学崇礼南楼</p>
+    <p>电子邮箱:lianghao@aust.edu.cn</p>
+    <p>通讯地址：安徽省淮南市泰丰大街168号</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
