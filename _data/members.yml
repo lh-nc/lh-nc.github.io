@@ -1,0 +1,48 @@
+# ===== 当前团队成员 =====
+
+- group: "导师"
+  members:
+    - name: "张三"
+      role: "教授/博士生导师"
+      photo: "zhangsan.jpg"       # 照片放 assets/img/ 下
+      url: "https://zhangsan.com"
+      email: "zhangsan@university.edu.cn"
+
+- group: "博士生"
+  members:
+    - name: "李四"
+      role: "博士生 (2022-)"
+      photo: "lisi.jpg"
+      url: "https://lisi.github.io"
+      research: "自然语言处理、知识图谱"
+      email: "lisi@university.edu.cn"
+
+    - name: "王五"
+      role: "博士生 (2023-)"
+      photo: "wangwu.jpg"
+      research: "机器学习、推荐系统"
+
+- group: "硕士生"
+  members:
+    - name: "赵六"
+      role: "硕士生 (2024-)"
+      photo: "zhaoliu.jpg"
+      research: "文本生成"
+      
+    - name: "孙七"
+      role: "硕士生 (2024-)"
+      photo: "sunqi.jpg"
+      research: "图神经网络"
+
+# ===== 往届学生（校友） =====
+
+- group: "往届学生"
+  members:
+    - name: "周八"
+      role: "硕士 (2022-2025)"
+      photo: "zhouba.jpg"
+      destination: "阿里巴巴 · 算法工程师"     # 毕业去向
+
+    - name: "吴九"
+      role: "硕士 (2021-2024)"
+      destination: "XX大学 · 读博"
