@@ -1,6 +1,0 @@
----
-layout: page
-title: 团队           # 导航栏显示的文字
-permalink: /team/     # 访问路径
-nav: true             # ✅ 显示在导航栏
----
